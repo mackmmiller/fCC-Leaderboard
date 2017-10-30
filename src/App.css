@@ -1,0 +1,21 @@
+body, #root, .App {
+  height: 100%; }
+
+.navbar, footer {
+  background-color: #09630B; }
+
+h1 {
+  text-align: center; }
+
+#signature {
+  height: 8%;
+  padding-top: 10px;
+  color: white; }
+
+#resultTable {
+  margin-top: 8%; }
+
+.userimage {
+  height: 25px; }
+
+/*# sourceMappingURL=App.css.map */

@@ -1,0 +1,28 @@
+$navbar-height: 8%;
+$fCC-green: #09630B;
+
+body,#root,.App {
+	height: 100%;
+}
+
+.navbar,footer {
+  background-color: $fCC-green;
+}
+
+h1 {
+	text-align: center;
+}
+
+#signature {
+	height: 8%;
+	padding-top: 10px;
+	color: white;
+}
+
+#resultTable {
+  margin-top: $navbar-height;
+}
+
+.userimage {
+  height: 25px;
+}
